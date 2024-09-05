@@ -68,7 +68,7 @@ async def gen_inline_help_buttons(page: int, plugins: list) -> tuple[list, int]:
 async def gen_bot_help_buttons() -> list[list[InlineKeyboardButton]]:
     buttons = []
     plugins = sorted(Config.BOT_CMD_MENU)
-    emoji = await db.get_env(ENV.help_emoji) or "✧"
+    emoji = await db.get_env(ENV.help_emoji) or "💗"
     pairs = list(map(list, zip(plugins[::2], plugins[1::2])))
 
     if len(plugins) % 2 == 1:
@@ -104,9 +104,9 @@ def start_button() -> list[list[InlineKeyboardButton]]:
             InlineKeyboardButton("🗡️ sᴏᴜʀᴄᴇ 🗡️", "help_data:source"),
             ],
         [
-            InlineKeyboardButton("📌 DEPLOY 📌", url="https://t.me/PBX_NETWORK/6"),
+            InlineKeyboardButton("💓 DEPLOY 💓", url="https://t.me/DX_INFO/6"),
         ],
         [
-        InlineKeyboardButton("🕊️⃝‌ᴘʙx ❤️ᥫ᭡፝֟፝֟" ,  url="https://t.me/ll_THE_BAD_BOT_ll"),
+        InlineKeyboardButton("𝐃𝐗-𝐔𝐒𝐄𝐑𝐁𝐎𝐓" ,  url="https://t.me/DED_LEGEND_TG"),
     ]
     ]
