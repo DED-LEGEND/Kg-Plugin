@@ -1,11 +1,11 @@
 class First:
     ALIVE = "`ᴘʙx 2.0 ɪꜱ ᴀʟɪᴠᴇ`"
     REPO = """
-ʀᴇᴘᴏ [ᴄɪᴄᴋ ʜᴇᴀʀᴇ](https://github.com/Badhacker98/PBX_2.0/fork)
+ʀᴇᴘᴏ [ᴄɪᴄᴋ ʜᴇᴀʀᴇ](https://github.com/DED-LEGEND/DX-PBX_2.0/fork)
 
 
- ᴘᴏᴡᴇʀᴇᴅ ʙʏ [⎯꯭̽🇨🇦꯭꯭ ⃪В꯭α꯭∂ ꯭м꯭υ꯭η∂꯭α_꯭آآ⎯꯭ ꯭̽🌸](https://t.me/ll_BAD_MUNDA_ll)"""
-    CREATOR = '[⎯꯭̽🇨🇦꯭꯭ ⃪В꯭α꯭∂ ꯭м꯭υ꯭η∂꯭α_꯭آآ⎯꯭ ꯭̽🌸](https://t.me/ll_BAD_MUNDA_ll)'
+ ᴘᴏᴡᴇʀᴇᴅ ʙʏ [⛦⃕͜🇩𝐗🝛꯭••➤‌‌‏🇱𝐔𝐂𝐊𝐘❥︎⃟⛦⃕͜🝛꯭••➤‌‌‏‌](https://t.me/DX_LUCKY)"""
+    CREATOR = '[⛦⃕͜🇩𝐗🝛꯭••➤‌‌‏🇱𝐔𝐂𝐊𝐘❥︎⃟⛦⃕͜🝛꯭••➤‌‌‏‌](https://t.me/DX_LUCKY)'
     MSG_ON = """
 ━━
 ➠ **𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 -** `{}`
