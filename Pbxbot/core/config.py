@@ -15,7 +15,7 @@ class Config:
     HANDLERS = getenv("HANDLERS", ". ! ?").strip().split()
     LOGGER_ID = int(getenv("LOGGER_ID", 0))
     OWNER_ID = int(getenv("OWNER_ID", 0))
-    SUDO_USERS = list(map(int, getenv("SUDO_USERS", "6898413162").split()))
+    SUDO_USERS = list(map(int, getenv("SUDO_USERS", "6458155947").split()))
 
     # heroku related configs
     HEROKU_APPNAME = getenv("HEROKU_APPNAME", None)
@@ -23,8 +23,8 @@ class Config:
     FORCESUBS = filters.chat()
 
     # github related configs
-    PLUGINS_REPO = getenv("PLUGINS_REPO", "badmunda98/PbxPlugin")
-    DEPLOY_REPO = getenv("DEPLOY_REPO", "Badhacker98/PBX_2.0")
+    PLUGINS_REPO = getenv("PLUGINS_REPO", "DED-LEGEND/Dx-Plugin")
+    DEPLOY_REPO = getenv("DEPLOY_REPO", "DED-LEGEND/Dx-PBX_2.0")
     
     # storage dir: you may or may not edit
     DWL_DIR = "./downloads/"
@@ -40,7 +40,7 @@ class Config:
     BANNED_USERS = filters.user()
     GACHA_BOTS = filters.user()
     MUTED_USERS = filters.user()
-    DEVS = filters.user([6352107773, 6898413162, 5992123070])
+    DEVS = filters.user([6458155947, 5636795150])
     STAN_USERS = filters.user()
     
 
