@@ -369,12 +369,12 @@ HelpMenu("groups").add(
     "chatadmins",
     "<chat id (optional)>",
     "Get the list of admins of mentioned chat.",
-    "chatadmins @ll_THE_BAD_BOT_ll",
+    "chatadmins @DX_LUCKY @DX_INFO",
 ).add(
     "chatbots",
     "<chat id (optional)>",
     "Get the list of bots of mentioned chat.",
-    "chatbots @ll_THE_BAD_BOT_ll",
+    "chatbots @DX_LUCKY @DX_INFO",
 ).add(
     "id",
     "<reply to message (optional)>",
@@ -384,7 +384,7 @@ HelpMenu("groups").add(
     "invite",
     "<username/id>",
     "Invite the mentioned user to this chat.",
-    "invite @II_BAD_MUNDA_II",
+    "invite @DX_LUCKY @DX_INFO",
     "You can invite multiple users by giving their username/id separated by space.",
 ).info(
     "Group Menu"
