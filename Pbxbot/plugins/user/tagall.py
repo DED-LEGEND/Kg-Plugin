@@ -170,7 +170,7 @@ async def mention_allvc(client, message):
         if usrnum == 1:
             txt = f"{usrtxt} {random.choice(GM_TAG)}"
             await client.send_message(chat_id, txt)
-            await asyncio.sleep(4)
+            await asyncio.sleep(1)
             usrnum = 0
             usrtxt = ""
     try:
@@ -241,7 +241,7 @@ async def mention_allvc(client, message):
         if usrnum == 1:
             txt = f"{usrtxt} {random.choice(GN_TAG)}"
             await client.send_message(chat_id, txt)
-            await asyncio.sleep(4)
+            await asyncio.sleep(1)
             usrnum = 0
             usrtxt = ""
     try:
@@ -312,7 +312,7 @@ async def mention_allvc(client, message):
         if usrnum == 1:
             txt = f"{usrtxt} {random.choice(VC_TAG)}"
             await client.send_message(chat_id, txt)
-            await asyncio.sleep(4)
+            await asyncio.sleep(1)
             usrnum = 0
             usrtxt = ""
     try:
@@ -383,7 +383,7 @@ async def mention_allvc(client, message):
         if usrnum == 1:
             txt = f"{usrtxt} {random.choice(CHAT_TAG)}"
             await client.send_message(chat_id, txt)
-            await asyncio.sleep(4)
+            await asyncio.sleep(1)
             usrnum = 0
             usrtxt = ""
     try:
