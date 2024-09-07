@@ -1,4 +1,4 @@
-# This plugin create by @II_BAD_MUNDA_II
+# This plugin create by @DX_LUCKY
 
 import asyncio
 import random
@@ -57,16 +57,16 @@ async def hajqag(client: Client, message: Message):
     animation_ttl = range(0, 18)
     await message.edit("Deploying........")
     animation_chars = [
-"**Heroku Connecting To Latest [Github Build](Badhacker98/PBX_2.0)**",
+"**Heroku Connecting To Latest [Github Build](DED-LEGEND/DX-PBX_2.0)**",
             f"**Build started by user** {DEFAULTUSER}",
-            f"**Deploy** `535a74f0` **by user** **{DEFAULTUSER}**",
+            f"**Deploy** `@DX_LUCKY` **by user** **{DEFAULTUSER}**",
             "**Restarting Heroku Server...**",
             "**State changed from up to starting**",    
             "**Stopping all processes with SIGTERM**",
             "**Process exited with** `status 143`",
             "**Starting process with command** `python3 -m stdborg`",
             "**State changed from starting to up**",
-            "__INFO:Pbxẞø†:Logged in as 557667062__",
+            "__INFO:Pbxẞø†:Logged in as 6458155947__",
             "__INFO:Pbxẞø†:Successfully loaded all plugins__",
             "**Build Succeeded**",
     ]
