@@ -129,13 +129,13 @@ HelpMenu("autopost").add(
     "autopost",
     "<channel id>",
     "Start autoposting in current group/channel from the mentioned chatid/username of channel.",
-    "autopost @PBX_NETWORK",
+    "autopost @DX_INFO",
     "This module will post all incoming post from the target channel to the current chat without forward tag!",
 ).add(
     "stopautopost",
     "<channel id>",
     "Stops autoposting in current chroup/channel from the mentioned chatid/username of channel.",
-    "stopautopost @PBX_NETWORK",
+    "stopautopost @DX_INFO",
 ).add(
     "autoposts", None, "Get all active autoposts!", "autoposts"
 ).info(
