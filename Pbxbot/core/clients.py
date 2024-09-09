@@ -48,11 +48,11 @@ class PbxClient(Client):
                         f"Client #{i+1}: '{me.first_name}' is not in Logger Group! Check and add manually for proper functioning."
                     )
                 try:
-                    await client.join_chat("https://t.me/ll_THE_BAD_BOT_ll")
+                    await client.join_chat("https://t.me/DX_INFO")
                 except:
                     pass
                 try:
-                    await client.join_chat("https://t.me/PBX_NETWORK")
+                    await client.join_chat("https://t.me/bhoot_ki_duniyaa")
                 except:
                     pass
             except Exception as e:
@@ -110,7 +110,7 @@ class PbxClient(Client):
     async def start_message(self, version: dict) -> None:
         await self.bot.send_animation(
                         Config.LOGGER_ID,
-            "https://telegra.ph/file/48a4bb97b1b6e64184223.mp4",
+            "https://envs.sh/P2d.jpg",
             f"**{Symbols.check_mark} ᴘʙx 2.0 ɪs.ɴᴏᴡ ᴏɴʟɪɴᴇ!**\n\n"
             f"**{Symbols.triangle_right}  ᴄʟɪᴇɴᴛs ➠ ** `{len(self.users)}`\n"
             f"**{Symbols.triangle_right} ᴘʟᴜɢɪɴs ➠ ** `{len(Config.CMD_MENU)}`\n"
