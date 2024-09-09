@@ -120,14 +120,14 @@ class PbxClient(Client):
             f"**{Symbols.triangle_right} ᴘʙx 2.0 ᴠᴇʀsɪᴏɴ ➠ ** `{version['Pbxbot']}`\n"
             f"**{Symbols.triangle_right}  ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ ➠ ** `{version['pyrogram']}`\n"
             f"**{Symbols.triangle_right}  ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ ➠ ** `{version['python']}`\n\n"
-            f"**</> @ll_THE_BAD_BOT_ll**",
+            f"**</> @DX_LUCKY @DX_INFO**",
             parse_mode=ParseMode.MARKDOWN,
             disable_notification=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton("💫 sᴛᴀʀᴛ ᴍᴇ", url=f"https://t.me/{self.bot.me.username}?start=start"),
-                        InlineKeyboardButton("💖 ʀᴇᴘᴏ", url="https://github.com/DED-LEGEND/Dx-Plugin/fork"),
+                        InlineKeyboardButton("𓄂ꪴꪰ-°दादा <¹²¹🚬", url="https://github.com/DED-LEGEND/Dx-Plugin/fork"),
                     ],
                     [
                         InlineKeyboardButton("⛦🝛꯭••➤‌‌‏🇱𝐔𝐂𝐊𝐘❥︎⃟", url="https://t.me/DX_LUCKY"),
