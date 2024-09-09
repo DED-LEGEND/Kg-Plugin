@@ -127,13 +127,13 @@ class PbxClient(Client):
                 [
                     [
                         InlineKeyboardButton("💫 sᴛᴀʀᴛ ᴍᴇ", url=f"https://t.me/{self.bot.me.username}?start=start"),
-                        InlineKeyboardButton("💖 ʀᴇᴘᴏ", url="https://github.com/Badhacker98/PBX_2.0/fork"),
+                        InlineKeyboardButton("💖 ʀᴇᴘᴏ", url="https://github.com/DED-LEGEND/Dx-Plugin/fork"),
                     ],
                     [
-                        InlineKeyboardButton("⎯꯭̽🇨🇦꯭꯭ ⃪В꯭α꯭∂ ꯭м꯭υ꯭η∂꯭α_꯭آآ⎯꯭ ꯭̽🌸", url="https://t.me/ll_BAD_MUNDA_ll"),
+                        InlineKeyboardButton("⛦🝛꯭••➤‌‌‏🇱𝐔𝐂𝐊𝐘❥︎⃟", url="https://t.me/DX_LUCKY"),
                     ],
                     [
-                    InlineKeyboardButton("🦋 𝐏ʙx 𝐁ᴏᴛ 𝐒ᴜᴘᴘᴏʀᴛ ❤️", url="https://t.me/ll_THE_BAD_BOT_ll"),
+                    InlineKeyboardButton("⎯꯭‌❤ıʈ𝐬 ⃦⸺꯭‌⃜🍃⃪꯭⃜ ‌𝐆𝐎𝐕𝐈𝐍𝐃˚─‌⃛➻≛⃝💛", url="https://t.me/Govind_official_mpppp"),
                     ],
                 ]
             ),
