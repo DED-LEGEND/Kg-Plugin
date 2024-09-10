@@ -4,7 +4,7 @@ from pyrogram import Client, filters
 from pyrogram.enums import MessageEntityType as MET, ChatAction as CA
 from pyrogram.types import Message
 from . import *
-LRAID_STR = ["HAYEE MERI JAAN 🤩🤩",
+RAID_STR = ["HAYEE MERI JAAN 🤩🤩",
     "MERI JAAN KITNI OSM HAI YAAR 😁🌹🌹😍😍😍",
     "I LOVE YOU MERI JAAN❤️❤️",
     "MERI JAAN I KISS YOU ❤️😋😊😘😘😘",
