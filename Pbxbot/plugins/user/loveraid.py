@@ -55,7 +55,7 @@ async def loveraid_handler(client, message):
         que[user.id].append(user.id)
         await client.send_message(
             chat_id=message.chat.id,
-            text=random.choice(RAID_STR),
+            text=random.choice(LRAID_STR),
             reply_to_message_id=message.reply_to_message.message_id
         )
     else:
