@@ -2,7 +2,7 @@ import random
 from pyrogram import Client, filters
 from pyrogram.enums import MessageEntityType as MET, ChatAction as CA
 from pyrogram.types import Message
-RAID_STR = [
+LOVERAID_STR = [
     "HAYEE MERI JAAN 🤩🤩",
     "MERI JAAN KITNI OSM HAI YAAR 😁🌹🌹😍😍😍",
     "I LOVE YOU MERI JAAN❤️❤️",
