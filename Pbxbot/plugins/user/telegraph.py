@@ -77,7 +77,7 @@ async def telegraph_media(_, message: Message):
 
     try:
         media_url = TGraph.telegraph.upload_file(path)
-        url = f"https://te.legra.ph{media_url[0]['src']}"
+        url = f"https://envs.sh{media_url[0]['src']}"
     except Exception as e:
         await Pbxbot.error(Pbx, str(e))
     else:
@@ -129,7 +129,7 @@ async def telegraph_text(client: Client, message: Message):
         response = TGraph.telegraph.create_page(page_name, html_content=page_content)
 
     try:
-        url = f"https://te.legra.ph/{response['path']}"
+        url = f"https://envs.sh/{response['path']}"
         await Pbx.edit(
             f"**💫 Uploaded to [telegraph]({url})!**\n\n**{Symbols.anchor} URL:** `{url}`",
             disable_web_page_preview=True,
