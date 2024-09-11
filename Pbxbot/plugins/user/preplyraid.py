@@ -12,7 +12,7 @@ LRAID_STR = [
 "I LOVE YOU MERI JAAN❤️❤️",
 "MERI JAAN KITNI OSM HAI YAAR 😁🌹🌹😍😍😍",
 "I MISS YOU JAAN 🥀🥀✨✨",
-"Mat muskurao itna ki Phoolo ko khabar lag jaye Ke wo kare taaref tumhari Aur tumhe unki najar lag jaye"",
+"Mat muskurao itna ki Phoolo ko khabar lag jaye Ke wo kare taaref tumhari Aur tumhe unki najar lag jaye",
 "Chand se haseen hai chandni Chandni se haseen hai Raat Raat se haseen hai chand Aur chand se haseen hai aap",
 "You look so beautiful and pretty I feel lucky because you love me I love you now and I’ll always do Because I just can’t live without you",
 "Chand sa tera masoom chehra Tu haya ki ek murat hai Tujhe dekh ke kaliya bhi sharmaaye Tu itni khoobsurat hai",
