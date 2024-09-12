@@ -289,7 +289,7 @@ CHAT_INFO_TEMPLATES = [
 **➢ 𝖡𝗈𝗍𝗌:** `{botsCount}`
 **➢ 𝖣𝖾𝗌𝖼𝗋𝗂𝗉𝗍𝗂𝗈𝗇:** `{description}`
 
-**</> @ll_THE_BAD_BOT_ll**
+**</> @DX_LUCKY @DX_INFO**
 """
 ]
 
