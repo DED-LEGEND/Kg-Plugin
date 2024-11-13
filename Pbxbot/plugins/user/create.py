@@ -19,7 +19,7 @@ plugin_category = "tools"
 
 @on_message(
     pattern="create (b|g|c) ([\s\S]*)",
-    command=("create", plugin_category),
+    command=("create",  Dx-Plugin),
     info={
         "header": "To create a private group/channel with userbot.",
         "description": "Use this cmd to create super group , normal group or channel.",
