@@ -7,10 +7,10 @@
 # Please see: https://github.com/TgCatUB/catuserbot/blob/master/LICENSE
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 
-from telethon.tl import functions
+from pyrogram.types import functions
 
-from .. import catub
-from ..Config import Config
+from ..import Pbxbot
+from ..import HelpMenu, Pbxbot, on_message, Config
 from ..core.managers import edit_delete, edit_or_reply
 from ..utils.tools import create_supergroup
 
