@@ -14,7 +14,7 @@ from ..import HelpMenu, Pbxbot, on_message, Config
 from ..core.managers import edit_delete, edit_or_reply
 from ..utils.tools import create_supergroup
 
-plugin_category = "tools"
+ Dx-Plugin = "tools"
 
 
 @on_message(
@@ -29,7 +29,7 @@ plugin_category = "tools"
             "c": "to create a private channel",
         },
         "usage": "{tr}create (b|g|c) <name of group/channel>",
-        "examples": "{tr}create b catuserbot",
+        "examples": "{tr}create b Pbxbot",
     },
 )
 async def _(event):
