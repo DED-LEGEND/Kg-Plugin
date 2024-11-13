@@ -17,7 +17,7 @@ from ..utils.tools import create_supergroup
 plugin_category = "tools"
 
 
-@catub.cat_cmd(
+@on_message(
     pattern="create (b|g|c) ([\s\S]*)",
     command=("create", plugin_category),
     info={
