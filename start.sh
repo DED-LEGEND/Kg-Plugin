@@ -9,4 +9,4 @@ echo " ##     ## ##   # ##    ##  ##  ## "
 echo " ##     ## ##  #   ##   ##  ##  ##  "
 echo " ####   #####  ##  ###    ####  #### "
 
-python3 -m Pbxbot                                                               
+python3 -m Dx-Pbxbot                                                               
